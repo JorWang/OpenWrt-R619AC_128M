@@ -1,4 +1,4 @@
-# Actions OpenWrt Redmi AX6
+# Actions OpenWrt R619AC 128M
 
 ## 硬件
 
